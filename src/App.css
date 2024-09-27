@@ -1,6 +1,6 @@
-/* src/App.css */
+
 html, body {
-  height: 100vh; /* Full viewport height */
+  height: 100vh; 
   margin: 0;
   padding: 0;
   display: flex;
@@ -11,10 +11,10 @@ html, body {
 }
 
 body {
-  display: flex; /* Ensure body is flex container */
+  display: flex; 
   justify-content: center;
   align-items: center;
-  min-height: 50vh; /* Ensure the body covers full screen */
+  min-height: 50vh; 
 }
 
 .container {
@@ -23,8 +23,8 @@ body {
   border-radius: 10px;
   box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
   width: 100%;
-  max-width: 400px; /* Restrict the max width of the container */
-  text-align: center; /* Align text inside container */
+  max-width: 400px; 
+  text-align: center; 
 }
 
 h1 {
